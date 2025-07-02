@@ -1,6 +1,6 @@
 # Module II (Enhanced): Vector Databases for Agentic AI
 
-![Vector Database Pipeline](02_Vector_Databases/module_flowchart.png)
+![Vector Database Pipeline](02_Vector_Databases/module_flowchart_v1.png)
 *Figure: Data flows from raw input through vectorization, indexing, similarity search, and result retrieval.*
 
 ## Setup

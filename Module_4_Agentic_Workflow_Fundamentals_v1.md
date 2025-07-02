@@ -1,6 +1,6 @@
 # Module IV (Enhanced): Agentic Workflow Fundamentals
 
-![Agentic Workflow Pipeline](04_Agentic_Workflow_Fundamentals/module_flowchart.png)
+![Agentic Workflow Pipeline](04_Agentic_Workflow_Fundamentals/module_flowchart_v1.png)
 *Figure: Workflow design leads to task orchestration, error handling, and result aggregation.*
 
 ## Setup
