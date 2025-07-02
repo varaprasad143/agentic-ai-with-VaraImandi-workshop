@@ -1,6 +1,6 @@
 # Module I (Enhanced): Building Context-Aware LLM Applications and MCP
 
-![Context-Aware LLM Pipeline](01_Context_Aware_LLM_Applications/module_flowchart_v1.png)
+![Context-Aware LLM Pipeline](01_Context_Aware_LLM_Applications/module_flowchart.png)
 *Figure: The flow of user input through preprocessing, context injection, LLM inference, postprocessing, and feedback loop.*
 
 ## Setup

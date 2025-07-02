@@ -1,6 +1,6 @@
 # Module III (Enhanced): Multi-Agent Applications
 
-![Multi-Agent System Pipeline](03_Multi_Agent_Applications/module_flowchart_v1.png)
+![Multi-Agent System Pipeline](03_Multi_Agent_Applications/module_flowchart.png)
 *Figure: Agents are created, assigned tasks, communicate, coordinate, and aggregate results.*
 
 ## Setup
